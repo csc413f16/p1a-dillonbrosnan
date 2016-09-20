@@ -1,8 +1,9 @@
-Name:
+Name: Dillon Brosnan
 
-Compilation and Run Successful:
+Compilation and Run Successful: yes, Process finished with exit code 0, however, when running on
+emulator, i was not able to enter negative digits and other characters, only integers.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: yes, Process finished with exit code 0
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
